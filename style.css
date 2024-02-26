@@ -1,0 +1,14 @@
+*{
+    font-family: 'inter';
+}
+
+#menu-inicio{
+background-color: #303030;
+padding: 50px;
+}
+
+.link{
+color: white;
+padding: 15px;
+}
+
